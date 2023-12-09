@@ -19,5 +19,3 @@ def test_transaction_processing(input_dfs, output_dfs):
     assert input_common_df.equals(common_df)
     assert input_left_exclusive_df.equals(left_exclusive_df)
     assert input_right_exclusive_df.equals(right_exclusive_df)
-
-
