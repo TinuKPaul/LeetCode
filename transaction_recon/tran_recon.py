@@ -81,7 +81,6 @@ if __name__ == "__main__":
         source_left=source_left_df, source_right=source_right_df
     )
 
-    # Print the results
     print("Common Transactions:")
     print(common_df)
 
