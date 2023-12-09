@@ -1,6 +1,6 @@
 ## Transaction Recon
 
-Time Complexity : Complexity 
+Time Complexity : Constant Time 
 
 ### Identifying Common Transactions (pd.merge):
 
